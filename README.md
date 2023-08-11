@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Adedayo ADEDOYIN</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
+<p align ="center">
+  <a href="mailto:jsmedia023@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+    
+   <a href="https://medium.com/@joshuaadedoyin2" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
+    </a>
+  </p>
+
 - 🔭 I’m currently working on **Laravel**
 
 - 🌱 I’m currently learning **PHP, Laravel, API dev**
